@@ -1,6 +1,6 @@
 # CapuEcho - Capuchin Bird Call Classifier 🦜
 
-![Project Banner](#) <!-- Add your image link here -->
+![Project Banner](logo.png "Logo of Project") <!-- Add your image link here -->
 
 ## Overview
 **CapuEcho** is a deep learning project designed to classify Capuchin bird calls with high accuracy. Built using **TensorFlow** and **TensorFlow IO**, this tool is intended to assist researchers, conservationists, and bird enthusiasts in identifying Capuchin bird calls from audio recordings.
